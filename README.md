@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> **Full-Stack Developer** focused on automation, artificial intelligence, and high-impact systems. Currently pursuing a degree in **Software Engineering** at the State University of Maringá (UEM). I have interest in the **Functional Programming** paradigm and its application in building robust, scalable software.
+> **Full-Stack Developer** focused on automation, artificial intelligence, and high-impact systems. Currently pursuing a degree in **Software Engineering** at the State University of Maringá (UEM). I have a deep interest in the **Functional Programming** paradigm and its application in building robust, scalable software.
 
 ---
 
@@ -25,12 +25,12 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Python |
-| **Databases** | MySQL, PostgreSQL |
-| **Messaging** | NATS |
-| **Communication** | REST API, WebSocket, MCP |
-| **DevOps & Tools** | Docker, Linux, Git, GitHub |
-| **Architecture** | Functional Programming, Design Patterns, Clean Code |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
+| **Messaging** | ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white) |
+| **Communication** | ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4A4A4A?style=flat-square) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
+| **Architecture** | ![Functional Programming](https://img.shields.io/badge/Functional_Programming-5E5086?style=flat-square&logo=haskell&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-000000?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=flat-square) |
 
 ---
 
