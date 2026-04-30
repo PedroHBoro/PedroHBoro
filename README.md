@@ -26,11 +26,11 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Messaging** | ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MARIADB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)|
+| **Messaging** | ![NATS](https://img.shields.io/badge/NATS.io-27AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white) |
 | **Communication** | ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Architecture** | ![Functional Programming](https://img.shields.io/badge/Functional_Programming-5E5086?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-333333?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean_Code-333333?style=flat-square) |
+| **Architecture** | ![Functional Programming](https://img.shields.io/badge/Functional_Programming-5E5086?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-5E5086?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean_Code-5E5086?style=flat-square) |
 
 ---
 
