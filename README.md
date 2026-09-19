@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> **Full-Stack Developer** focused on automation, artificial intelligence, and high-impact systems. Currently pursuing a degree in **Software Engineering** at the State University of Maringá (UEM). I have a deep interest in the **Functional Programming** paradigm and its application in building robust, scalable software.
+> **Full-Stack Developer** focused on automation, artificial intelligence, and high-impact systems. Currently pursuing a degree in **Software Engineering** at the State University of Maringá (UEM).
 
 ---
 
